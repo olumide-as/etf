@@ -15,7 +15,7 @@ const Home = () => {
             <span className="text-green-400"> The</span> Fud
           </h1>
 
-          <p className="text-gray-300 max-w-xl text-2xl md:text-3xl leading-relaxed sm:mx-auto ">
+          <p className="text-gray-300 max-w-xl text-2xl md:text-3xl leading-relaxed sm:mx-auto font-jost">
             Are you hungry for some fud?
           </p>
         </div>

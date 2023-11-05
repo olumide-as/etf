@@ -67,7 +67,7 @@ const Footer = () => {
                 </div>
 
                 <div className="mt-4 sm:mt-0">
-                    &copy; {date} AiShiba All rights reserved.
+                    &copy; {date} $ETF All rights reserved.
                 </div>
 
             </div>
