@@ -10,7 +10,7 @@ const Navbar = () => {
   const navigation = [
     { title: "Home", path: "../" },
     { title: "Airdrop", path: "../#" },
-    { title: "Community", path: "../#" },
+    { title: "Community", path: "https://discord.com/invite/zx5NeQfHaC" },
     { title: "Get $ETF", path: "../#" },
 ]
 
